@@ -1,0 +1,1 @@
+My solved exercises from [Zero to Mastery: Learn PyTorch for Deep Learning](https://www.learnpytorch.io/) course.
